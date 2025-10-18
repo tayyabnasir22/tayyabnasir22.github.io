@@ -1,17 +1,23 @@
 {
   "experiences": [
     {
-      "title": "Principal Machine Learning Engineer",
-      "company": "Arbisoft",
-      "start": "March 2023",
-      "end": "Present"
-    },
-    {
       "title": "Full Stack Developer",
       "company": "Toptal",
       "start": "October 2022",
       "end": "Present",
       "link": "https://www.toptal.com/resume/tayyab-nasir"
+    },
+    {
+      "title": "Principal Machine Learning Engineer",
+      "company": "Arbisoft Global LLC, Mckinney, TX, USA",
+      "start": "July 2024",
+      "end": "Present"
+    },
+    {
+      "title": "Principal Machine Learning Engineer",
+      "company": "Arbisoft",
+      "start": "March 2023",
+      "end": "June 2024"
     },
     {
       "title": "Principal Data Scientist",

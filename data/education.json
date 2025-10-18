@@ -1,0 +1,31 @@
+{
+  "education": [
+    {
+      "institution": "University of the Punjab, Lahore (FCIT)",
+      "degree": "Master of Philosophy",
+      "field": "Computer Science",
+      "research": "Machine Learning, Natural Language Processing, Computer Vision, Deep Learning, Data Science, Image Processing, Pattern Recognition",
+      "thesis": { "title": "Urdu Text Recognition", "link": "https://ieeexplore.ieee.org/document/9530551" },
+      "cgpa": "3.70 / 4.00",
+      "start": "October 2018",
+      "end": "October 2020"
+    },
+    {
+      "institution": "University of the Punjab, Lahore (FCIT)",
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
+      "majors": "Programming Fundamentals, Object Oriented Programming, Data Structures and Algorithms, Analysis of Algorithms, Enterprise Application Development, System Programming, Object Oriented Analysis and Design, and Database Management Systems",
+      "cgpa": "3.68 / 4.00",
+      "start": "October 2013",
+      "end": "July 2017"
+    },
+    {
+      "institution": "Government College University, Lahore (GCU)",
+      "degree": "Higher Secondary School Certificate",
+      "field": "Computer Science, Physics, Mathematics",
+      "grade": "A+",
+      "start": "September 2010",
+      "end": "September 2012"
+    }
+  ]
+}
