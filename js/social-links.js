@@ -1,5 +1,5 @@
 // Load social icons dynamically
-fetch('data/socials.json')
+fetch('data/social-links.json')
   .then(response => {
     if (!response.ok) throw new Error('Failed to load socials JSON');
     return response.json();

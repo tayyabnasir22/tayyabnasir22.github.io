@@ -1,5 +1,5 @@
 // Load Research section
-fetch('data/research.json')
+fetch('data/publications.json')
   .then(res => res.json())
   .then(data => {
     const container = document.getElementById('researchContent');
