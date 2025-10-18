@@ -1,5 +1,5 @@
 // Load Experience section
-fetch('./data/experience.json')
+fetch('data/experience.json')
   .then(res => res.json())
   .then(data => {
     const container = document.getElementById('experienceContent');

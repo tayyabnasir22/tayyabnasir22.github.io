@@ -1,5 +1,5 @@
 // Load navbar links dynamically
-fetch('./data/navbar.json')
+fetch('data/navbar.json')
   .then(response => {
     if (!response.ok) throw new Error('Failed to load navbar JSON');
     return response.json();

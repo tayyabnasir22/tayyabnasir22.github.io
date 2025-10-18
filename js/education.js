@@ -1,5 +1,5 @@
 // Load Education section
-fetch('./data/education.json')
+fetch('data/education.json')
   .then(res => res.json())
   .then(data => {
     const container = document.getElementById('educationContent');
