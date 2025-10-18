@@ -1,0 +1,33 @@
+{
+  "projects": [
+    { "name": "Ask My AI", "anchor": "askmyai", "style": "secondary" },
+    { "name": "Call-Analyzer Bearsight.io", "anchor": "callanalyzer", "style": "light" },
+    { "name": "Store Matching - Burger Index", "anchor": "storematching", "style": "secondary" },
+    { "name": "Reki Movie Recommendations", "anchor": "reki", "style": "light" },
+    { "name": "Product Matching - Burger Index", "anchor": "productmatching", "style": "secondary" },
+    { "name": "Retail Products Extraction - Burger Index", "anchor": "productextraction", "style": "light" },
+    { "name": "Type 2 Diabetes", "anchor": "diabetes", "style": "secondary" },
+    { "name": "Patient Face Tracking", "anchor": "face", "style": "light" },
+    { "name": "Smart Recruit", "anchor": "smart", "style": "secondary" },
+    { "name": "Appointment Scheduling", "anchor": "appointment", "style": "light" },
+    { "name": "Common Black College", "anchor": "college", "style": "secondary" },
+    { "name": "Clinical Recommender", "anchor": "clinical", "style": "light" },
+    { "name": "Medication Sig Recommender", "anchor": "sig", "style": "secondary" },
+    { "name": "Billing Data Migration", "anchor": "form", "style": "light" },
+    { "name": "Customer Service Quality", "anchor": "support", "style": "secondary" },
+    { "name": "NOVATRAQ", "anchor": "nova", "style": "light" },
+    { "name": "FUNDINGTRAQ", "anchor": "fund", "style": "secondary" },
+    { "name": "Self-Service Terminal", "anchor": "self", "style": "light" },
+    { "name": "NextHRM", "anchor": "hrm", "style": "secondary" },
+    { "name": "HealthCare IoT", "anchor": "iot", "style": "light" },
+    { "name": "Vicenna - Health Cloud", "anchor": "health", "style": "secondary" },
+    { "name": "Pharmacist .com.pk", "anchor": "pharma", "style": "light" },
+    { "name": "Efficient CRNN", "anchor": "crnn", "style": "secondary" },
+    { "name": "MMU-OCR-20", "anchor": "mmu", "style": "light" },
+    { "name": "Bird Species Classifier", "anchor": "bird", "style": "secondary" },
+    { "name": "KendoGrid FASMS", "anchor": "fasms", "style": "light" },
+    { "name": "Outset Style", "anchor": "outset", "style": "secondary" },
+    { "name": "CodeKer - Arbisoft", "anchor": "codeker", "style": "secondary" },
+    { "name": "Menus Recipe - Burger Index", "anchor": "menu", "style": "light" }
+  ]
+}

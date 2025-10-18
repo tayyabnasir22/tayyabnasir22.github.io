@@ -1,0 +1,24 @@
+{
+  "quotes": [
+    {
+      "title": "Change",
+      "text": "“There is nothing permanent except change”: Heraclitus",
+      "icon": "icon-hourglass"
+    },
+    {
+      "title": "Improve",
+      "text": "“To improve is to change, to be perfect is to change often”: Churchill",
+      "icon": "icon-pencil"
+    },
+    {
+      "title": "Adapt",
+      "text": "Adapt to the changing world around you.",
+      "icon": "icon-direction"
+    },
+    {
+      "title": "Enjoy",
+      "text": "Just enjoy this ride of change.",
+      "icon": "icon-like"
+    }
+  ]
+}
