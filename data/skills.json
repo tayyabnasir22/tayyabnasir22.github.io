@@ -1,0 +1,55 @@
+{
+  "skills": [
+    {
+      "category": "Machine Learning & Data Science",
+      "type": "list",
+      "items": [
+        "Deep Learning: TensorFlow, PyTorch, Keras",
+        "Data Processing: Pandas",
+        "Machine Learning: Numpy, Scikit Learn",
+        "NLP: OpenAI (GPT-3, GPT-3.5-Turbo, GPT-4), Spacy, Prompt Engineering, LLMs, Llama-V2, Mistral",
+        "Image Processing: Open CV, DeepFace, Pillow",
+        "Visualization: Matplotlib, Plotly, Seaborn",
+        "Others: Jupyter Notebook, Vscode"
+      ]
+    },
+    {
+      "category": "Back-end Development and Software Architecture",
+      "type": "list",
+      "items": [
+        "C#, ASP.NET MVC, ASP.NET Web API, Core, Entity Framework, Dapper, Windows Forms, Windows Services, Xamarin, WPF, WCF, Azure Functions",
+        "Python, Django, DRF, Pymongo, DjangoORM, Fast API, PyMuPDF, Flake8, PEP",
+        "MSSQL Server, MySQL, MongoDB, PL-SQL, Azure Table Storage, CosmosDB",
+        "Design Patterns, IoC, DI, Unity Container, MVC, MVVM"
+      ]
+    },
+    {
+      "category": "Front-end Development",
+      "type": "icons",
+      "icons": [
+        "fab fa-html5",
+        "fab fa-css3-alt",
+        "fab fa-js-square",
+        "fab fa-angular",
+        "fab fa-react",
+        "fab fa-sass",
+        "fab fa-less",
+        "fab fa-npm",
+        "fab fa-bootstrap",
+        "fab fa-jquery",
+        "fab fa-typescript",
+        "fab fa-foundation"
+      ]
+    },
+    {
+      "category": "Interpersonal Skills",
+      "type": "list",
+      "items": [
+        "Good communication skills",
+        "Good Writing skills (Formal, and Academic)",
+        "Good at doing tasks in groups or teams",
+        "Team lead skills"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "research": [
+    {
+      "title": "MMU-OCR-21: Towards End-to-End Urdu, Text Recognition Using Deep Learning.",
+      "link": "http://ieeexplore.ieee.org/document/9530551",
+      "authors": "<b>Tayyab Nasir</b>, Muhammad Kamran Malik, and Khurram Shahzad",
+      "journal": "IEEE Access 9 (2021): 124945-124962",
+      "year": "2021"
+    },
+    {
+      "title": "SACDNet: Towards Early Type 2 Diabetes Prediction with Uncertainty for Electronic Health Records",
+      "link": "https://arxiv.org/abs/2301.04844",
+      "authors": "<b>Tayyab Nasir</b>, and Muhammad Kamran Malik",
+      "journal": "arXiv preprint arXiv:2301.04844",
+      "year": "2023"
+    },
+    {
+      "title": "Efficient CRNN: A Novel Approach for Low Resource Urdu Text Recognition",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0306457323002819",
+      "authors": "<b>Tayyab Nasir</b>, and Muhammad Kamran Malik",
+      "journal": "Elsevier Information Processing & Management Volume 61, Issue 1, January 2024, 103544",
+      "year": "2023"
+    }
+  ]
+}

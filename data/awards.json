@@ -1,0 +1,27 @@
+{
+  "awards": [
+    { "title": "Elsevier Recognized Reviewer since April 2022" },
+    { "title": "Guest speaker at Motive AI Meetup 2023, presenting the application of LLMs in industrial projects at Arbisoft." },
+    { "title": "Panelist at UET UTS 3.0, 2023, for the talk titled, The Future of Artificial Intelligence and its Impact on the Workforce." },
+    { "title": "Getting started with TensorFlow 2 on Coursera. Certificate earned in January 2022" },
+    { "title": "Customising your models with TensorFlow 2 on Coursera. Certificate earned in February 2022" },
+    { "title": "IBM AI Capstone for Project with Deep Learning on Coursera. Certificate earned in 2020" },
+    { "title": "IBM Data Visualization with Python on Coursera. Certificate earned in 2020" },
+    { "title": "IBM Databases and SQL for Data Science on Coursera. Certificate earned in 2020" },
+    { "title": "IBM Machine Learning with Python on Coursera. Certificate earned in 2020" },
+    { "title": "IBM Deep Learning with Keras on Coursera. Certificate earned in 2020" },
+    { "title": "IBM Deep Learning with Tensorflow on Coursera. Certificate earned in 2020" },
+    { "title": "IBM Deep Neural Networks with PyTorch on Coursera. Certificate earned in 2020" },
+    { "title": "Deep Learning, a 5-course specialization by deeplearning.ai on Coursera. Specialization Certificate earned on August 8, 2019" },
+    { "title": "Neural Networks and Deep Learning by deeplearning.ai on Coursera. Certificate earned in 2019" },
+    { "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization by deeplearning.ai on Coursera. Certificate earned in 2019" },
+    { "title": "Structuring Machine Learning Projects by deeplearning.ai on Coursera. Certificate earned in 2019" },
+    { "title": "Convolutional Neural Networks by deeplearning.ai on Coursera. Certificate earned in 2019" },
+    { "title": "Sequence Models by deeplearning.ai on Coursera. Certificate earned in 2019" },
+    { "title": "Won SoftExpo 2017 for best Web Application" },
+    { "title": "Won client appreciation and best team of the year award for automating the data migration for RCM at CureMD as part of the Bi-Dev Team" },
+    { "title": "Multiple times won client appreciation awards while working at Nextbridge as part of the V teams" },
+    { "title": "Techlogix employee of the month" },
+    { "title": "8 bands in IELTS" }
+  ]
+}

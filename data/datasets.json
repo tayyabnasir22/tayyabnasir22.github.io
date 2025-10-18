@@ -1,0 +1,16 @@
+{
+  "datasets": [
+    {
+      "name": "MMU-OCR-21",
+      "link": "https://www.kaggle.com/datasets/tayyabnasir22/mmuocr21",
+      "platform": "Kaggle",
+      "year": "2021"
+    },
+    {
+      "name": "MMU-Extension-22",
+      "link": "https://www.kaggle.com/datasets/tayyabnasir22/mmuocr21ext2/",
+      "platform": "Kaggle",
+      "year": "2022"
+    }
+  ]
+}
