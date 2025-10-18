@@ -1,173 +1,202 @@
 [
     {
+        "url": "details#",
         "name": "Ask My AI",
         "company": "Arbisoft", 
         "year": "Mar 2023 - Oct 2023", 
         "details": "askmyai"
     },
     {
+        "url": "details#",
         "name": "Reki Movie Recommendations",
         "company": "Arbisoft", 
         "year": "Aug 2023 - Oct 2023", 
         "details": "reki"
     },
     {
+        "url": "details#",
         "name": "Outset Style",
         "company": "Toptal", 
         "year": "Sep 2023 - Feb 2024", 
         "details": "outset"
     },
     {
+        "url": "details#",
         "name": "CodeKer - Arbisoft",
         "company": "Arbisoft", 
         "year": "Jul 2023 - Feb 2024", 
         "details": "codeker"
     },
     {
+        "url": "details#",
         "name": "Menus Recipe - Burger Index",
         "company": "Arbisoft", 
         "year": "Jan 2024 - Present", 
         "details": "menu"
     },
     {
+        "url": "details#",
         "name": "Call-Analyzer Bearsight.io",
         "company": "Toptal", 
         "year": "Aug 2023 - Jan 2024", 
         "details": "callanalyzer"
     },
     {
+        "url": "details#",
         "name": "Store Matching - Burger Index",
         "company": "Arbisoft", 
         "year": "December 2023 - Present", 
         "details": "storematching"
     },
     {
+        "url": "details#",
         "name": "Product Matching - Burger Index",
         "company": "Arbisoft", 
         "year": "Jan 2024 - Present", 
         "details": "productmatching"
     },
     {
+        "url": "details#",
         "name": "Retail Products Extraction - Burger Index",
         "company": "Arbisoft", 
         "year": "September 2023 - Jan 2024", 
         "details": "productextraction"
     },
     {
+        "url": "details#",
         "name": "Type 2 Diabetes Prediction Using Routine EHR Data",
         "company": "CureMD", 
         "year": "Jul 2021 - Jan 2023", 
         "details": "diabetes"
     },
     {
+        "url": "details#",
         "name": "Face ID Patient Tracking",
         "company": "CureMD", 
         "year": "Oct 2021 - Jan 2023", 
         "details": "face"
     },
     {
+        "url": "details#",
         "name": "Smart Recruit",
         "company": "CureMD", 
         "year": "Jan 2022 - Feb 2023", 
         "details": "smart"
     },
     {
+        "url": "details#",
         "name": "MD - Appointment Scheduling",
         "company": "CureMD", 
         "year": "Aug 2021 - May 2022", 
         "details": "appointment"
     },
     {
+        "url": "details#",
         "name": "Common Black College Application",
         "company": "Toptal", 
         "year": "Jun 2023 - Sep 2023", 
         "details": "college"
     },
     {
+        "url": "details#",
         "name": "MD - Clinical Assistance Recommendation System",
         "company": "CureMD", 
         "year": "May 2021 - Jan 2022", 
         "details": "clinical"
     },
     {
+        "url": "details#",
         "name": "MD - Medication Sig Recommendation System",
         "company": "CureMD", 
         "year": "Feb 2021 - Dec 2021", 
         "details": "sig"
     },
     {
+        "url": "details#",
         "name": "MD - Billing Form Data Migration",
         "company": "CureMD", 
         "year": "Oct 2020 - Mar 2021", 
         "details": "form"
     },
     {
+        "url": "details#",
         "name": "MD - Intelligent Customer Service Quality Control",
         "company": "CureMD", 
         "year": "Oct 2021 - Jan 2021", 
         "details": "support"
     },
     {
+        "url": "details#",
         "name": "NOVATRAQ",
         "company": "Nextbridge", 
         "year": "Sep 2019 - Oct 2020", 
         "details": "nova"
     },
     {
+        "url": "details#",
         "name": "FUNDINGTRAQ",
         "company": "Nextbridge", 
         "year": "Sep 2019 - Oct 2020", 
         "details": "fund"
     },
     {
+        "url": "details#",
         "name": "Self-Service Terminal",
         "company": "Nextbridge", 
         "year": "Mar 2019 - Sep 2019", 
         "details": "self"
     },
     {
+        "url": "details#",
         "name": "NextHRM",
         "company": "Nextbridge", 
         "year": "Jan 2019 - Jul 2019", 
         "details": "hrm"
     },
     {
+        "url": "details#",
         "name": "HealthCare IoT",
         "company": "Nextbridge", 
         "year": "Oct 2018 - Dec 2018", 
         "details": "iot"
     },
     {
+        "url": "details#",
         "name": "Vicenna - HealthCloud",
         "company": "Techlogix", 
         "year": "Aug 2017 - May 2018", 
         "details": "health"
     },
     {
+        "url": "details#",
         "name": "Pharmacist.com.pk",
         "company": "Artificial Intelligence and Multidisciplinary (AIM) Research Laboratory", 
         "year": "Jun 2016 - Jul 2017", 
         "details": "pharma"
     },
     {
+        "url": "details#",
         "name": "Efficient CRNN: A Novel Approach for Low Resource Urdu Text Recognition",
         "company": "Independent Research", 
         "year": "December 2021 - December 2023", 
         "details": "crnn"
     },
     {
+        "url": "details#",
         "name": "MMU-OCR-20",
         "company": "M.Phils Thesis", 
         "year": "September 2019 - Jul 2020", 
         "details": "mmu"
     },
     {
+        "url": "details#",
         "name": "Bird Species Classifier",
         "company": "Freelance", 
         "year": "Jan 2019 - Jul 2019", 
         "details": "bird"
     },
     {
+        "url": "details#",
         "name": "KendoGridFASMS (Kendo-Grid-Filtering-Aggregation-Sorting-Mapping-Server)",
         "company": "Open Source", 
         "year": "Nov 2019 - Present", 
