@@ -1,0 +1,13 @@
+{
+  "links": [
+    { "label": "About", "href": "#about" },
+    { "label": "Experience", "href": "#experience" },
+    { "label": "Education", "href": "#education" },
+    { "label": "Research", "href": "#research" },
+    { "label": "Datasets", "href": "#dataset" },
+    { "label": "Skills", "href": "#skills" },
+    { "label": "Projects", "href": "#projects" },
+    { "label": "Awards", "href": "#awards" },
+    { "label": "Portfolio", "href": "details" }
+  ]
+}

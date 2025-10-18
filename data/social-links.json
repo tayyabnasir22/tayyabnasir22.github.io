@@ -1,0 +1,8 @@
+{
+  "socials": [
+    { "icon": "fab fa-linkedin-in", "url": "https://www.linkedin.com/in/tayyab-nasir" },
+    { "icon": "fab fa-github", "url": "https://github.com/tayyabnasir22" },
+    { "icon": "fab fa-stack-overflow", "url": "https://stackoverflow.com/users/6053132/tayyab" },
+    { "icon": "fa-solid fa-graduation-cap", "url": "https://scholar.google.com/citations?user=0Mbs9hEAAAAJ" }
+  ]
+}

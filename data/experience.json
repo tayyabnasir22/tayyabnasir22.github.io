@@ -1,0 +1,41 @@
+{
+  "experiences": [
+    {
+      "title": "Principal Machine Learning Engineer",
+      "company": "Arbisoft",
+      "start": "March 2023",
+      "end": "Present"
+    },
+    {
+      "title": "Full Stack Developer",
+      "company": "Toptal",
+      "start": "October 2022",
+      "end": "Present",
+      "link": "https://www.toptal.com/resume/tayyab-nasir"
+    },
+    {
+      "title": "Principal Data Scientist",
+      "company": "CureMD Research and Development",
+      "start": "October 2020",
+      "end": "March 2023"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Nextbridge Private Limited",
+      "start": "October 2018",
+      "end": "October 2020"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Techlogix Private Limited",
+      "start": "August 2017",
+      "end": "June 2018"
+    },
+    {
+      "title": "Software Engineer Intern",
+      "company": "NCAI FCIT (formerly, Artificial Intelligence & Multidisciplinary Research Laboratory)",
+      "start": "July 2016",
+      "end": "June 2017"
+    }
+  ]
+}
