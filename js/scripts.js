@@ -76,7 +76,7 @@ window.addEventListener('DOMContentLoaded', event => {
             "details": "productmatching"
         },
         {
-            "name": "Retail Products Extraction – Burger Index",
+            "name": "Retail Products Extraction - Burger Index",
             "company": "Arbisoft", 
             "year": "September 2023 - Jan 2024", 
             "details": "productextraction"
@@ -100,7 +100,7 @@ window.addEventListener('DOMContentLoaded', event => {
             "details": "smart"
         },
         {
-            "name": "MD – Appointment Scheduling",
+            "name": "MD - Appointment Scheduling",
             "company": "CureMD", 
             "year": "Aug 2021 - May 2022", 
             "details": "appointment"
@@ -112,25 +112,25 @@ window.addEventListener('DOMContentLoaded', event => {
             "details": "college"
         },
         {
-            "name": "MD – Clinical Assistance Recommendation System",
+            "name": "MD - Clinical Assistance Recommendation System",
             "company": "CureMD", 
             "year": "May 2021 - Jan 2022", 
             "details": "clinical"
         },
         {
-            "name": "MD – Medication Sig Recommendation System",
+            "name": "MD - Medication Sig Recommendation System",
             "company": "CureMD", 
             "year": "Feb 2021 - Dec 2021", 
             "details": "sig"
         },
         {
-            "name": "MD – Billing Form Data Migration",
+            "name": "MD - Billing Form Data Migration",
             "company": "CureMD", 
             "year": "Oct 2020 - Mar 2021", 
             "details": "form"
         },
         {
-            "name": "MD – Intelligent Customer Service Quality Control",
+            "name": "MD - Intelligent Customer Service Quality Control",
             "company": "CureMD", 
             "year": "Oct 2021 - Jan 2021", 
             "details": "support"
