@@ -1,0 +1,20 @@
+{
+  "type": "Portfolio Project",
+  "name": "Type 2 Diabetes Prediction Using Routine EHR Data",
+  "description": "A disease prediction project using state-of-the-art machine learning techniques to leverage patient medical history for predicting the likelihood of type 2 diabetes. The project identified novel features and created multiple machine and deep learning classifiers, along with a framework for early detection that outputs predictions with confidence scores.",
+  "tools": [
+    "Python",
+    "NumPy",
+    "Pandas",
+    "scikit-learn",
+    "TensorFlow (Keras)",
+    "Matplotlib",
+    "MS SQL Server"
+  ],
+  "role": [
+    "Reviewed existing literature and disease prediction systems to design a solution using available patient data at CureMD",
+    "Identified features suitable for predicting type 2 diabetes in the absence of direct lab results",
+    "Designed a novel deep neural network architecture and a framework for quantifying prediction uncertainty",
+    "Authored a research article based on the project for publication"
+  ]
+}

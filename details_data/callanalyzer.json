@@ -1,0 +1,25 @@
+{
+  "type": "Portfolio Project",
+  "name": "Call-Analyzer (Bearsight.io)",
+  "description": "A tool that analyzes calls between customer service agents and clients, scoring user experience and call quality using state-of-the-art artificial intelligence. It helps organizations track customer satisfaction and manage the overall quality of support and marketing calls.",
+  "tools": [
+    "Python",
+    "OpenAI",
+    "GPT-3.5-Turbo",
+    "LangChain",
+    "Large Language Models (LLMs)",
+    "PostgreSQL",
+    "FastAPI",
+    "SQLModel",
+    "Stripe",
+    "Angular",
+    "Whisper"
+  ],
+  "role": [
+    "Researched and developed an end-to-end ML pipeline including audio processing, transcription, speaker diarization, and LLM-based call scoring using configurable domain-specific questions",
+    "Built a FastAPI-based product around the machine learning solution",
+    "Architected the application with authentication, multi-tenancy support, and analytics-oriented APIs",
+    "Developed a queue-based processing mechanism for handling call-analysis requests",
+    "Integrated Stripe for user payment and subscription management"
+  ]
+}

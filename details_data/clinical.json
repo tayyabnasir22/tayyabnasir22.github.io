@@ -1,0 +1,19 @@
+{
+  "type": "Portfolio Project",
+  "name": "MD - Clinical Assistance Recommender System",
+  "description": "A subpart of a larger assistive system to help medical practitioners identify possible lab orders and prescription details based on selected Diagnosis ICD codes and patient vitals.",
+  "tools": [
+    "Python",
+    "Numpy",
+    "Pandas",
+    "Matplotlib",
+    "MSSQL Server"
+  ],
+  "role": [
+    "Worked as the research lead to analyze Lab Orders and Prescriptions data, transforming it into a more usable form and identifying trends using pandas and matplotlib",
+    "Developed two separate recommendation pipelines for Lab Orders and Prescriptions using conditional probabilities and Diagnosis Clustering",
+    "Integrated the Prescriptions Recommendation pipeline with the Medication Sig Recommendation System",
+    "Devised an implicit evaluation strategy to validate the usability of the recommenders based on click data",
+    "Fine-tuned the system with several improvements and enhancements"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "Portfolio Project",
+  "name": "Face ID Patient Tracking",
+  "description": "A system leveraging deep learning for face detection and recognition to track patient activities within a clinic, monitor entry and exit using video streams, and manage timing for therapy sessions.",
+  "tools": [
+    "Python",
+    "NumPy",
+    "TensorFlow 2",
+    "DeepFace",
+    "OpenCV",
+    "FastAPI"
+  ],
+  "role": [
+    "Led research and development to build robust face detection and recognition systems using ArcFace and FaceNet512 for recognition and SSD for face detection in live video streams",
+    "Assisted the development team in designing the application architecture for patient registration and edge-based detection/recognition integrated with the existing EHR system",
+    "Oversaw the development of a FastAPI-based monolithic server handling endpoints for face recognition"
+  ]
+}

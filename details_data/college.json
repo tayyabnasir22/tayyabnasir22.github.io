@@ -1,0 +1,25 @@
+{
+  "type": "Portfolio Project",
+  "name": "Common Black College Application",
+  "description": "A platform enabling students to apply to over 65 Historically Black Colleges and Universities (HBCUs), helping break cycles of poverty. Over 250,000 students have completed the CBCA, with ~97% accepted to at least one member institution and 33% receiving scholarships ranging from thousands to millions of dollars.",
+  "tools": [
+    "C#",
+    "ASP.NET Core 6",
+    "Entity Framework",
+    "MS SQL Server",
+    "Angular",
+    "CSS3",
+    "TypeScript",
+    "HTML5",
+    "Bootstrap 5 (NgBootstrap)",
+    "JavaScript",
+    "Google Charts"
+  ],
+  "role": [
+    "Worked as a full-stack developer, focusing primarily on the admin-dashboard application",
+    "Developed optimized backend APIs (porting from VB.NET) using ASP.NET Core 6",
+    "Revamped the front-end in Angular including authentication screens, admin dashboard, and form controls for managing members, counselors, and applicants",
+    "Implemented responsive and mobile-first design",
+    "Built analytics dashboards using Google Charts to visualize stats such as enrolled applicants by country/state, applicant-counselor associations, and application/enrollment data"
+  ]
+}

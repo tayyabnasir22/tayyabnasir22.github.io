@@ -1,0 +1,26 @@
+{
+  "type": "Portfolio Project",
+  "name": "NextHRM",
+  "description": "A complete office management portal including features like HR management, Work Station and Meeting Room Management, Biometric Attendance System, Leaves Management, and much more.",
+  "tools": [
+    "ASP.NET MVC",
+    "MS SQL Server",
+    "ASP.NET Identity",
+    "Window Service",
+    "Entity Framework",
+    "Bootstrap 3",
+    "HTML",
+    "CSS",
+    "Javascript",
+    "Angular",
+    "SignalR",
+    "Xamrin Forms (Android, UWP, and iOS)"
+  ],
+  "role": [
+    "Worked as a back-end developer on the biometric attendance management portal. Developed Windows Services to run on the individual attendance terminals handling the Biometric Attendance devices to record and sync employee's office in, office out, break start and break end time by verifying user via thumbprint",
+    "Wrote REST APIs to receive the attendance records from the attendance terminals and manage them in the MS SQL Server database",
+    "Worked as full stack developer on Meeting Room and Work Station Management module to view, add, update and remove rooms and workstations available on office premises using ASP.NET MVC",
+    "Worked as full stack developer on Meeting Room and Work Station assignment and allotment module, including booking management, attendee management, authorizing meeting start/cancel, schedule viewing, start/end notifiers, hot desking, and assignment notifiers",
+    "Assisted the mobile development team by providing required REST APIs and using SQL jobs to generate and send notifications to mobile applications via SignalR"
+  ]
+}

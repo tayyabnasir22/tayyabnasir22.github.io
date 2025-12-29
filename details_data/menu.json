@@ -1,0 +1,22 @@
+{
+  "type": "Portfolio Project",
+  "name": "Menus Recipe - Burger Index",
+  "description": "A system for extracting ingredients used in restaurant menu items. The extracted data is used to link retailers with restaurants based on ingredients sold and consumed, and to identify target restaurants for retailers.",
+  "tools": [
+    "Python",
+    "NumPy",
+    "Pandas",
+    "Matplotlib",
+    "TensorFlow Keras",
+    "scikit-learn",
+    "TheFuzz",
+    "Regular Expressions",
+    "OpenAI",
+    "GPT-4"
+  ],
+  "role": [
+    "Designed a preprocessing pipeline for data cleansing and normalization of menu data",
+    "Developed a two-stage ingredient extraction system, first extracting ingredients from raw menu data and then using an LLM to infer and fill missing ingredients",
+    "Contributed to the development of an in-house ML-based model aimed at replacing LLMs for improved scalability"
+  ]
+}

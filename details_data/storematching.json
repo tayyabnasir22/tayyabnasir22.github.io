@@ -1,0 +1,25 @@
+{
+  "type": "Portfolio Project",
+  "name": "Store Matching - Burger Index",
+  "description": "A machine learning system for comparing store data from multiple food delivery platforms to identify common and duplicate stores. The system was used for comparative data analysis and correction of incorrectly tagged data.",
+  "tools": [
+    "Python",
+    "NumPy",
+    "Pandas",
+    "Matplotlib",
+    "TensorFlow Keras",
+    "scikit-learn",
+    "GeoPy",
+    "TheFuzz",
+    "Regular Expressions",
+    "Regex"
+  ],
+  "role": [
+    "Led data science efforts by collaborating with the client to identify, collect, and curate data for feature generation",
+    "Developed a traditional NLP-based tagging system and labeled approximately 40,000 samples with human-in-the-loop validation",
+    "Experimented with multiple machine learning and deep learning approaches, including fully connected neural networks and Siamese networks, to predict store similarity scores",
+    "Applied geofencing and geohashing techniques to cluster nearby stores and reduce the candidate matching space, improving system efficiency",
+    "Used the system to identify and eliminate duplicate store entries extracted by web crawlers",
+    "Achieved 96% accuracy and successfully processed over 500,000 store records in production"
+  ]
+}

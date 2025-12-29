@@ -1,0 +1,29 @@
+{
+  "type": "Portfolio Project",
+  "name": "HealthCare IoT",
+  "description": "An integrate-able software solution to automate the collection of a patient's vital readings using technology to replace the role of a nurse, for UAE-based clients. A web-based management portal for patients' reading and reading room management communicating with desktop-based reading location application to capture and process readings from certain devices.",
+  "tools": [
+    "ASP.NET Web API",
+    "ASP.NET MVC",
+    "MS SQL Server",
+    "ASP.NET Identity",
+    "Dapper",
+    "Opentok",
+    "WPF",
+    "WebRTC",
+    "HTML",
+    "CSS",
+    "Javascript",
+    "JQuery",
+    "Bootstrap",
+    "Material Design WPF",
+    "SQLite"
+  ],
+  "role": [
+    "Worked as full stack developer on the management portal developed in ASP.NET MVC, Dapper, HTML, CSS, Bootstrap, Javascript, and JQuery",
+    "Developed the reading room application that fetches the patient's vital readings from certain hardware devices and passes them to the server, using WPF, SQLITE, and Material Design WPF, also provided audio instructions to the patients using Windows text-to-speech API",
+    "Developed manual nurse auto-ride feature using Opentok WebRTC to provide effective end-to-end audio and video communication between the Doctor and the reading room",
+    "Developed HL7 compliant REST API server to receive patient information from any existing Healthcare system that is to be used with the application",
+    "Assisted in the IoT integration by writing the module to read data from the hardware reading capturing devices via COM ports"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "Portfolio Project",
+  "name": "Kendo Grid FASMS",
+  "description": "An open source project to add server side filtering, sorting and aggregation for Kendo jQuery Grid. Supporting .NET, .NET Core and .NET Standard.",
+  "tools": [
+    "C#.NET",
+    "T-SQL",
+    "Kendo UI"
+  ],
+  "role": [
+    "Main contributor to the project"
+  ]
+}

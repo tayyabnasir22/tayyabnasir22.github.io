@@ -1,0 +1,26 @@
+{
+  "type": "Portfolio Project",
+  "name": "NOVATRAQ",
+  "description": "A cloud-based application for automating commercial and SBA lending processes with a fully integrated set of lending tools. Based in the United States, the application manages the origination, processing, closing, and monitoring of small business loan portfolios, providing features for both lenders and brokers for SBA workflow management.",
+  "tools": [
+    "Dapper ORM",
+    "ASP.NET Web API",
+    "Kendo jQuery UI",
+    "BackBone.JS",
+    "jQuery",
+    "MS SQL Server",
+    "Telerik Reports",
+    "Unity Container (DI)",
+    "Visual Studio 2015",
+    "MS SQL Management Studio 2014",
+    "JIRA",
+    "Bit Bucket"
+  ],
+  "role": [
+    "Worked as full stack developer on the integration module for the FICO Liquid Credit Score system (FICO SBSS), creating components for submitting FICO requests and processing returned business and individual credit scores",
+    "Customized Credit Memo modules for certain lenders, updating existing UI controls developed using Kendo jQuery UI components",
+    "Developed System Documents and Reports modules, building reports using Telerik Reports including PPP Forgiveness Summary and PPP Credit Recommendation",
+    "Developed SBA Eligibility Module for PPP and PPP Forgiveness, providing lender controls for editing and viewing individual PPP SBA loan applications",
+    "Implemented Telerik RAD controls-based PDF engine for mapping SQL table data to and from the required fields of PDF forms for SBA forms"
+  ]
+}

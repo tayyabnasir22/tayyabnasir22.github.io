@@ -1,0 +1,18 @@
+{
+  "type": "Portfolio Project",
+  "name": "MD - Medication Sig Recommender System",
+  "description": "A recommender system to suggest possible medication sigs for a given drug based on features like patient demographics and prescriber usage history.",
+  "tools": [
+    "Python",
+    "Numpy",
+    "Pandas",
+    "Matplotlib",
+    "MSSQL Server"
+  ],
+  "role": [
+    "Worked as the research lead, building and analyzing existing data, transforming it using pandas, and identifying trends and dependencies using matplotlib",
+    "Built several POC systems for recommendations, analyzing the effect of features and determining the best feature combinations for recommendation",
+    "Developed the final recommendation system using conditional probabilities to recommend medication sigs based on patient demographics",
+    "Built a prescriber-prescriber similarity index to find matching prescribers and add variations to recommendations"
+  ]
+}

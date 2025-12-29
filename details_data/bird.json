@@ -1,0 +1,19 @@
+{
+  "type": "Portfolio Project",
+  "name": "Bird Species Classifier",
+  "description": "A Deep Learning-based End-to-End image classifier to identify 200 different bird species.",
+  "tools": [
+    "Python",
+    "Pandas",
+    "Skimage",
+    "Numpy",
+    "Keras",
+    "Sci-kit Learn"
+  ],
+  "role": [
+    "Worked as Machine Learning Engineer building various models using CNNs and fine-tuning them to achieve the desired results",
+    "Worked on developing various CNN-based models and trying to fine-tune them using K-Fold Cross-Validation",
+    "The best working models involved the InceptionV3 pretrained using the ImageNet dataset",
+    "Compiled a greater dataset using multiple existing labeled datasets including the CUB and NaBird datasets"
+  ]
+}

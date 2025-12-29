@@ -1,0 +1,23 @@
+{
+  "type": "Portfolio Project",
+  "name": "MMU-OCR-20",
+  "description": "A complete solution for recognizing printed Urdu text in images, supporting multiple fonts. The research consisted of generating a benchmark dataset for printed Urdu using multiple fonts, along with Deep Neural network-based models that can recognize printed Urdu text lines and words regardless of the used font.",
+  "tools": [
+    "Python",
+    "Polyglot",
+    "Tensorflow 2.0 Keras API",
+    "Numpy",
+    "Pandas",
+    "Pillow",
+    "Sklearn",
+    "H5py",
+    "OpenCV",
+    "Matplotlib"
+  ],
+  "role": [
+    "Worked as the researcher, building up a complete set of rationale on what limitations of the current systems the said research overcomes",
+    "Scrapped, cleansed, and formatted the data which was then used to generate the final corpus",
+    "Build up state-of-the-art CNN and RNN-based DNN models for building up a complete OCR system",
+    "Worked on the analysis of the dataset and the trained models"
+  ]
+}

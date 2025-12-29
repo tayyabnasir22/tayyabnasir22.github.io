@@ -1,0 +1,25 @@
+{
+  "type": "Portfolio Project",
+  "name": "Retail Attributes Classifier - Burger Index",
+  "description": "A machine learning and natural language processing system designed to extract retail products and their associated attributes for sales analysis and competitive market analysis across platforms such as UberEATS, Zomato, HungerStation, and Jahez.",
+  "tools": [
+    "Python",
+    "NumPy",
+    "Pandas",
+    "FlashText",
+    "Regular Expressions",
+    "Dask",
+    "FastAPI",
+    "MySQL",
+    "RapidFuzz",
+    "Regex"
+  ],
+  "role": [
+    "Led machine learning efforts to design and implement an advanced ETL pipeline for extracting brands, quantities, and product attributes using ML and NLP techniques",
+    "Built optimized data cleansing and normalization pipelines using tokenization, expression evaluation, stemming, and translation",
+    "Improved processing performance by replacing pandas with Dask DataFrames for large-scale data handling",
+    "Developed modular components for confidence scoring, post-processing, and verification cycles based on domain knowledge",
+    "Successfully tagged and processed over 10 million records using the final extraction system",
+    "Introduced index-based keyword extraction to identify candidate text spans for different attributes, reducing search space and improving extraction accuracy"
+  ]
+}

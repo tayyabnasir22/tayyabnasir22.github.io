@@ -1,0 +1,33 @@
+{
+  "type": "Portfolio Project",
+  "name": "Ask My AI",
+  "description": "A platform for building bots that encapsulate the essence of famous personalities and act on their behalf. The bot can respond to emails and SMS, reply to tweets, market or endorse products on behalf of a personality, and provide voice messages in a tone and voice identical to the personality.",
+  "tools": [
+    "Python",
+    "FastAPI",
+    "Next.js",
+    "GPT-4",
+    "GPT-3.5-Turbo",
+    "NumPy",
+    "Pandas",
+    "LLaMA-V2-Chat",
+    "Azure",
+    "MS SQL Server",
+    "Milvus",
+    "DistilBERT",
+    "Machine Learning",
+    "Natural Language Processing",
+    "Deep Learning",
+    "ElevenLabs",
+    "AWS SageMaker"
+  ],
+  "role": [
+    "Collaborated with ML engineers to explore LLMs and constrain them to the knowledge and style of specific celebrities",
+    "Evaluated multiple LLMs and engineered prompts to achieve celebrity-mimicking behavior",
+    "Researched and experimented with embedding models to retrieve relevant contextual facts for improved LLM instruction",
+    "Optimized vector search performance using Milvus and evaluated open-source LLMs such as LLaMA-V2-7B-Chat for cost-effective deployment",
+    "Led fine-tuning iterations including data transformation and tuning of OpenAI and LLaMA models",
+    "Developed an end-to-end FastAPI backend with multi-tenancy support and configurable workflows per personality",
+    "Integrated Speech-to-Text and Text-to-Speech capabilities using Whisper and ElevenLabs to enable audio-based interaction"
+  ]
+}

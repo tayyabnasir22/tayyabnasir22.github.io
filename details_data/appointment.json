@@ -1,0 +1,17 @@
+{
+  "type": "Portfolio Project",
+  "name": "MD - Appointment Scheduling",
+  "description": "A deep learning-based system that predicts the next encounter date for a patient based on previous encounters and associated details.",
+  "tools": [
+    "Python",
+    "NumPy",
+    "TensorFlow 2 (Keras API)",
+    "Pandas",
+    "Matplotlib"
+  ],
+  "role": [
+    "Led research efforts to identify solutions and analyze potential benefits, reviewing existing models for similar systems",
+    "Built and tested multiple techniques to identify key predictive features based on prior research",
+    "Led the development team in building and deploying the final LSTM-based predictive model"
+  ]
+}

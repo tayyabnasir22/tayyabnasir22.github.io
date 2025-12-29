@@ -1,0 +1,23 @@
+{
+  "type": "Portfolio Project",
+  "name": "Product Matching – Burger Index",
+  "description": "A machine learning system for identifying identical products belonging to the same restaurant across multiple food delivery platforms such as UberEATS, Zomato, HungerStation, Mrsool, and Jahez. The system enabled price comparison, detection of missing products, and cleanup of duplicate entries across platforms.",
+  "tools": [
+    "Python",
+    "NumPy",
+    "Pandas",
+    "Matplotlib",
+    "scikit-learn",
+    "RapidFuzz",
+    "Regular Expressions",
+    "Regex"
+  ],
+  "role": [
+    "Led data science efforts by working with clients to identify and collect relevant data for feature generation",
+    "Built a product-attribute extraction system and used it to create a semi-supervised dataset of approximately 50,000 labeled examples",
+    "Trained multiple machine learning models to compute product similarity scores",
+    "Integrated the product-matching system with store-matching workflows to compare products across delivery platforms",
+    "Used the system to identify and remove duplicate product and store entries extracted by crawlers",
+    "Achieved 98% accuracy and processed over 3 million product records in production"
+  ]
+}

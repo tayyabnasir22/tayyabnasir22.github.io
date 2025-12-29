@@ -1,0 +1,28 @@
+{
+  "type": "Portfolio Project",
+  "name": "FUNDINGTRAQ",
+  "description": "FUNDINGTRAQ portal, a subsystem of NOVATRAQ, is a cloud-based application that gives borrowers and referral sources a secure environment to conduct all activity required during the lending process for SBA, providing features like customizable SBA loan application wizards, loan application monitoring, and document management features.",
+  "tools": [
+    "Entity Framework",
+    "ASP.NET MVC",
+    "ASP.NET Web API",
+    "Kendo jQuery UI",
+    "BackBone.JS",
+    "Marionette",
+    "jQuery",
+    "Bootstrap3",
+    "MS SQL Server",
+    "Unity Container (DI)",
+    "Rackspace.NET",
+    "Visual Studio 2015",
+    "MS SQL Management Studio 2014",
+    "JIRA",
+    "Bit Bucket"
+  ],
+  "role": [
+    "Worked as full stack developer on the loan application interview wizards for SBA, SBA PPP, and SBA PPP Forgiveness, building user controls using Kendo jQuery UI along with Backbone.JS and Marionette, and creating endpoint APIs based on ASP.NET Web API and EF as the ORM",
+    "Worked on client-side session management for monitoring user activity using SignalR",
+    "Worked on the Product match and Self Registration modules, allowing borrowers to initiate SBA PPP and SBA PPP Forgiveness loan applications",
+    "Worked as full stack developer on the templates module using Rackspace.NET for providing borrowers access to template documents stored at Rackspace"
+  ]
+}

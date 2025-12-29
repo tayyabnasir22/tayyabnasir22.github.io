@@ -1,0 +1,20 @@
+{
+  "type": "Portfolio Project",
+  "name": "CodeKer - Arbisoft",
+  "description": "A Visual Studio Code extension that uses a locally hosted large language model to generate code completions, ensuring that proprietary client code is never exposed to third-party services.",
+  "tools": [
+    "Python",
+    "Code LLaMA",
+    "Large Language Models (LLMs)",
+    "Visual Studio Code",
+    "Milvus",
+    "RunPod",
+    "Hugging Face Text Generation Inference"
+  ],
+  "role": [
+    "Worked as a research consultant to define and shape the idea of securing proprietary client code through locally hosted LLM-based code completion",
+    "Evaluated and compared existing tools and large language models to assess performance and suitability for the intended use case",
+    "Customized and extended an existing Visual Studio Code extension to integrate with a locally hosted LLM and support configurable workflows",
+    "Deployed Code LLaMA 13B on RunPod using Hugging Face Text Generation Inference and exposed APIs for internal developer consumption"
+  ]
+}

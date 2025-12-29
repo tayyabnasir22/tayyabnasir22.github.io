@@ -1,0 +1,19 @@
+{
+  "type": "Portfolio Project",
+  "name": "MD - Intelligent Customer Service Quality Control",
+  "description": "A Machine Learning-based smart customer service call quality control application to classify the sentiments of on-call clients and call operators, generating smart notifications for managers if intervention is required.",
+  "tools": [
+    "Python",
+    "NLTK",
+    "Tensorflow 2.0 Keras API",
+    "Numpy",
+    "Pandas",
+    "IBM Watson Speech to Text"
+  ],
+  "role": [
+    "Worked as the main researcher along with one other developer, identifying techniques and implementing them",
+    "Developed tone analyzer for sentiment analysis using Tensorflow Keras, taking MFCC features of audio and passing them to a pre-trained CNN-based model trained on RAVEDESS and SAVEE datasets",
+    "Built a Naïve Bayes-based model using NLTK trained on the IMDB dataset to classify sentiment from audio transcriptions generated via IBM Watson Speech-to-Text API",
+    "Created a final model that weighted the sentiment for audio chunks based on results from both models to generate real-time quality control flags"
+  ]
+}

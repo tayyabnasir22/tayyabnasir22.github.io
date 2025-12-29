@@ -1,0 +1,35 @@
+{
+  "type": "Portfolio Project",
+  "name": "Vicenna - Health Cloud",
+  "description": "A Cloud-based Hospital Management System providing HMS as SAAS (Software as a Service). The idea was to provide a configurable hospital management system that resides entirely on the cloud and is accessed by a single-page web application where all the computation is being done in the cloud and only the user interface resides on the local machines.",
+  "tools": [
+    "ASP.NET Web API",
+    "AngularJs",
+    "MS SQL Server",
+    "Redis",
+    "Mirth Connect",
+    "Azure Table Storage",
+    "Azure Functions",
+    "Azure Cloud",
+    "Cosmos DB",
+    "Entity Framework",
+    "HL7",
+    "FHIR",
+    "CDA",
+    "C-CDA",
+    "Windows Service"
+  ],
+  "role": [
+    "Worked as a backend developer on health cloud (Cloud-based Hospital Management System) writing Web Services to expose data to the application's front end",
+    "Researched and developed several proofs of concepts to make the application HL7 compliant",
+    "Worked on end-to-end integrations for effective communication between the Health cloud and other existing systems",
+    "Integrated health-cloud with Dynamics 365 ERP system for syncing patient details between HMIS and ERP",
+    "Optimized application code and implemented strategies to improve performance under heavy loads, introduced Microservices to separate certain functionality from the monolithic application",
+    "Worked on proof of concept to make the health cloud work with local PACS repositories",
+    "Implemented CosmosDB to fetch frequently accessed data faster than relational database",
+    "Worked with Azure Hybrid Connections to provide Azure applications access to on-premises SQL Server",
+    "Designed and developed Windows Services for pushing legacy data from various systems to the health cloud",
+    "Worked on multi-tenancy using a hybrid approach (sharding)",
+    "Developed a Proof-of-Concept application for digitizing HMIS Clinical Documents using C-CDA standards"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Portfolio Project",
+  "name": "Pharmacist .com.pk",
+  "description": "A web and mobile application that suggests alternate medication for the provided brand or generic name of the medicine (only Pakistani products). Also provides the feature to locate a nearby pharmacy that has the required medicine available in their stock. It also provided a special interface for pharmaceutical companies and pharmacies to manage their products, stocks, and branches.",
+  "tools": [
+    "ASP.Net Web API",
+    "ASP.NET Web API",
+    "jQuery",
+    "MySQL",
+    "ADO.NET",
+    "Datatables",
+    "Android",
+    "Bootstrap",
+    "Selenium"
+  ],
+  "role": [
+    "Worked as full-stack developer developing separate ASP.NET MVC and Web API servers. Used jQuery as the primary front-end development tool along with Datatables",
+    "Implemented custom Claim Based Authorization along with token-based authentication for the Android application and Web API communication",
+    "Worked on various data scrappers using Selenium for .NET and various data cleaning and formatting techniques to develop a complete alternate medicine dataset for Pakistani products",
+    "Implemented manufacturer management module and pharmacy management module using ASP.NET MVC",
+    "Developed reverse lookup queries for searching by Brand name, and Generic name",
+    "Developed the pharmacy locator module using the Google Maps API to identify the nearest pharmacy to the searching user"
+  ]
+}

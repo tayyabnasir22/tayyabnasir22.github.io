@@ -1,0 +1,23 @@
+{
+  "type": "Portfolio Project",
+  "name": "MD - Billing Form Data Migration",
+  "description": "A system to automate clinical data migration from printed clinical billing documents by extracting text from regions of interest and storing it with minimal human intervention.",
+  "tools": [
+    "Python",
+    "EasyOCR",
+    "Tesseract 4.0",
+    "OpenCV",
+    "Numpy",
+    "Pandas",
+    "PyTesseract"
+  ],
+  "role": [
+    "Worked with a team of ML Engineers, identifying techniques and implementing them",
+    "Developed the overall application architecture providing a configurable, robust solution",
+    "Built an image alignment and scaling module using homography matrices computed on ORB features via OpenCV",
+    "Developed an ROI extractor module to extract marked regions containing required field information",
+    "Created an ensemble OCR module using both Tesseract and EasyOCR with confidence scoring",
+    "Worked on post-processing to clean keywords and store best results, applying regex for additional cleansing",
+    "Devised a scoring strategy to improve overall system performance across various configurations per document"
+  ]
+}

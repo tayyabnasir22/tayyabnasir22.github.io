@@ -1,0 +1,26 @@
+{
+  "type": "Portfolio Project",
+  "name": "Outset Style",
+  "description": "Outset style provides a platform for managing a digital closet. It provides features to track purchase details, analyze shopping insights, and view and organize closet listings and outfits.",
+  "tools": [
+    "Python",
+    "Django",
+    "Django Rest Framework",
+    "Gmail API",
+    "Django ORM",
+    "MySQL",
+    "Angular 16",
+    "HTML",
+    "CSS",
+    "AWS S3 Buckets",
+    "Mistral",
+    "LLMs",
+    "Together.ai"
+  ],
+  "role": [
+    "Worked as a full-stack developer creating features and fixing the issues with the existing version of the application",
+    "Architected the new backend architecture improving the existing code base",
+    "Developed multiple modules including token-based authorization, syncing products from Gmail in real time using Gmail API",
+    "Created an LLM-based email parser as a fallback strategy for extracting clothing article details from emails if the email cannot be parsed by the existing rules-based system"
+  ]
+}

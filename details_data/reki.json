@@ -1,0 +1,22 @@
+{
+  "type": "Portfolio Project",
+  "name": "Reki Movie Recommendations",
+  "description": "An add-on for the Reki platform that helps users track recommendations from friends and discuss shows they watch. The add-on leverages large language models to overcome the cold-start problem by recommending movies based on an initial user questionnaire.",
+  "tools": [
+    "Python",
+    "FastAPI",
+    "Mistral",
+    "Together.ai",
+    "NumPy",
+    "Pandas",
+    "Machine Learning",
+    "Natural Language Processing",
+    "Deep Learning"
+  ],
+  "role": [
+    "Built an end-to-end recommendation solution using GPT-4 to generate dynamic filters for extracting movie data from TMDB",
+    "Applied NLP techniques to parse and normalize irregular LLM-generated outputs",
+    "Evaluated and experimented with Mistral and LLaMA models to reduce dependency on GPT-4 and lower operational costs",
+    "Implemented secure API key-based authentication for communication between the Reki application and the recommendation service"
+  ]
+}

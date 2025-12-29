@@ -1,0 +1,36 @@
+{
+  "type": "Portfolio Project",
+  "name": "Smart Recruit",
+  "description": "An AI-based resume parser that provides candidate profiling and suitability scoring for job descriptions, delivering a complete end-to-end recruitment workflow from job posting to candidate shortlisting.",
+  "tools": [
+    "Python",
+    "PyMuPDF",
+    "spaCy",
+    "Named Entity Recognition (NER)",
+    "Fine-Tuning",
+    "BERT",
+    "Pandas",
+    "NumPy",
+    "FlashText",
+    "Dependency Injection",
+    "Unit of Work (UoW)",
+    "PyMongo",
+    "Repositories",
+    "Django REST Framework (DRF)",
+    "Django ORM",
+    "Unit Testing",
+    "Shapely",
+    "scikit-learn",
+    "MongoDB",
+    "MySQL"
+  ],
+  "role": [
+    "Led the team in developing AI-assisted Parsing, Profiling, and Scoring APIs",
+    "Designed the Parsing API architecture following best practices and Test-Driven Development (TDD) using Python's unittest framework",
+    "Enforced PEP standards using flake8",
+    "Designed multiple modules including PDF parsing, resume structure extraction, sort order correction, template-based parsing, scoring, and rating modules",
+    "Implemented NLP techniques using fine-tuned spaCy NER (BERT) models for keyword extraction",
+    "Led R&D efforts to prepare training data for fine-tuning spaCy NER models",
+    "Developed a machine learning model for classifying CVs using style and formatting features"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Portfolio Project",
+  "name": "Efficient CRNN: A Novel Approach for Low Resource Urdu Text Recognition",
+  "description": "A novel deep neural network architecture to recognize printed Urdu text is proposed as part of this study which was able to beat existing techniques for text recognition while at the same time being computationally efficient.",
+  "tools": [
+    "Python",
+    "Numpy",
+    "Tensorflow 2 Keras API"
+  ],
+  "role": [
+    "Worked as the researcher and developer to create a novel corpus and novel technique for multi-font text recognition",
+    "Designed and developed the experiments and performed the complete set of analyses required"
+  ]
+}
