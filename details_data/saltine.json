@@ -1,0 +1,35 @@
+{
+  "type": "Portfolio Project",
+  "name": "Saltine",
+  "description": "A personalized search and recommendation platform for home cooks. Leveraging artificial intelligence and machine learning, Saltine delivers flavorful, highly relevant recipes directly to users' kitchens, tailored to their tastes, dietary restrictions, and cooking habits.",
+  "tools": [
+    "Python",
+    "FastAPI",
+    "SQLModel",
+    "Gmail API",
+    "Google Custom JSON API",
+    "Django ORM",
+    "MySQL",
+    "React",
+    "React Bootstrap",
+    "HTML",
+    "CSS",
+    "Digital Ocean",
+    "Docker",
+    "NLP",
+    "FlashText",
+    "Word2Vec",
+    "Next.js 14"
+  ],
+  "role": [
+    "Architected the application from scratch, building both the front-end and back-end and developing modules including user management, recipe recommendations, preferences management, search management, and bookmarking",
+    "Created multiple data parsing and scraping utilities for caching and storing results from Google searches for faster access",
+    "Designed and implemented a content-based recommendation system pipeline supporting Word2Vec-based recommendations based on users' previously viewed recipes",
+    "Built ingredient-based indexing to compute recipe similarity and enable fast retrieval",
+    "Implemented name-based embedding search using Milvus vectors for semantic recipe matching",
+    "Incorporated user preferences to rank recipes based on closeness to the semantic features of existing recipes",
+    "Developed parsing pipelines to continuously scrape data from popular recipe platforms to improve and update the recommendation index.",
+    "Optimized performance of recommendation queries using precomputed indices and vectorized similarity calculations.",
+    "Worked on application containerization and deployment using Docker and Digital Ocean droplets."
+  ]
+}

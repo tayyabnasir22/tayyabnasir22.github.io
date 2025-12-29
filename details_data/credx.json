@@ -1,0 +1,28 @@
+{
+  "type": "Portfolio Project",
+  "name": "CredX – Consultant",
+  "description": "CredX is a KSA-based online banking and loan application management platform. As a consultant, I led efforts to improve the application architecture, enforce design patterns, and enhance maintainability, scalability, and user experience.",
+  "tools": [
+    "Python",
+    "Django",
+    "C# .NET Core",
+    "Angular",
+    "Next.js",
+    "Bootstrap",
+    "AWS",
+    "GCP",
+    "MySQL",
+    "REST APIs",
+    "Celery",
+    "Docker"
+  ],
+  "role": [
+    "Acted as a consultant and technical decision-maker, defining strategies and approving implementation approaches while the internal team executed changes",
+    "Reviewed and analyzed existing codebase to identify areas for improvement, enforce best practices, and standardize design patterns",
+    "Proposed and designed architectural enhancements, including service layers for payment retries, email notifications, and SMS services, while guiding the internal team through implementation",
+    "Migrated backend from C# .NET Core to Django/Python to improve flexibility, maintainability, and enable future expansion for data science and machine learning operations",
+    "Migrated frontend from Angular to Next.js and enhanced mobile responsiveness using Bootstrap, improving performance and user experience across devices",
+    "Improved overall system reliability, modularity, and maintainability through code reviews, architectural guidance, and modern development practices",
+    "Made a strategic decision to migrate cloud infrastructure from GCP to AWS to optimize cost, scalability, and operational efficiency"
+  ]
+}
