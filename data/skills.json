@@ -7,8 +7,8 @@
         "Deep Learning: TensorFlow, PyTorch, Keras",
         "Data Processing: Pandas",
         "Machine Learning: Numpy, Scikit Learn",
-        "NLP: OpenAI (GPT-3, GPT-3.5-Turbo, GPT-4), Spacy, Prompt Engineering, LLMs, Llama-V2, Mistral",
-        "Image Processing: Open CV, DeepFace, Pillow",
+        "NLP: OpenAI, GPTs, Spacy, Prompt Engineering, LLMs, Llama, Mistral",
+        "Image Processing: Open CV, DeepFace, Pillow, INR, ASSR, Point Cloud",
         "Visualization: Matplotlib, Plotly, Seaborn",
         "Others: Jupyter Notebook, Vscode"
       ]
@@ -19,7 +19,7 @@
       "items": [
         "C#, ASP.NET MVC, ASP.NET Web API, Core, Entity Framework, Dapper, Windows Forms, Windows Services, Xamarin, WPF, WCF, Azure Functions",
         "Python, Django, DRF, Pymongo, DjangoORM, Fast API, PyMuPDF, Flake8, PEP",
-        "MSSQL Server, MySQL, MongoDB, PL-SQL, Azure Table Storage, CosmosDB",
+        "MSSQL Server, MySQL, MongoDB, PL-SQL, Azure Table Storage, CosmosDB, Neo4j",
         "Design Patterns, IoC, DI, Unity Container, MVC, MVVM"
       ]
     },

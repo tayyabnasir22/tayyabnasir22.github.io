@@ -8,6 +8,7 @@
     { "label": "Skills", "href": "#skills" },
     { "label": "Projects", "href": "#projects" },
     { "label": "Awards", "href": "#awards" },
-    { "label": "Portfolio", "href": "details" }
+    { "label": "Portfolio", "href": "details" },
+    { "label": "Highlights", "href": "highlights" }
   ]
 }

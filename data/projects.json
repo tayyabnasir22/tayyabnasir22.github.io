@@ -1,6 +1,90 @@
 [
     {
         "url": "details#",
+        "name": "Menus Recipe",
+        "company": "Burger Index", 
+        "year": "", 
+        "details": "menu"
+    },
+    { 
+        "url": "details#",
+        "name": "StreamGist", 
+        "company": "Toptal",
+        "year": "", 
+        "details": "streamgist"    
+    },
+    { 
+        "url": "details#",
+        "name": "Saltine", 
+        "company": "Toptal",
+        "year": "Jul 2024 - Sep 2024",
+        "details": "saltine"
+    },
+    { 
+        "url": "details#",
+        "name": "Intelligent Analyst", 
+        "company": "Toptal",
+        "year": "",
+        "details": "intelligentanalyst"
+    },
+    { 
+        "url": "details#",
+        "name": "CredX (tasheelat.co)", 
+        "company": "Toptal",
+        "year": "Jun 2025 - Aug 2025",
+        "details": "credx"
+    },
+    { 
+        "url": "details#",
+        "name": "Agent QA - Burger Index", 
+        "company": "Arbisoft",
+        "year": "",
+        "details": "agentqa"
+    },
+    { 
+        "url": "details#",
+        "name": "Retail Attributes Classifier - Burger Index", 
+        "company": "Arbisoft",
+        "year": "",
+        "details": "attributer"
+    },
+    { 
+        "url": "details#",
+        "name": "Brand Tagger - Burger Index", 
+        "company": "Arbisoft",
+        "year": "",
+        "details": "brandtagger"
+    },
+    { 
+        "url": "details#",
+        "name": "OCR Crawler - Burger Index", 
+        "company": "Arbisoft",
+        "year": "",
+        "details": "ocrcrawler"
+    },
+    {
+        "url": "details#",
+        "name": "Store Matching - Burger Index",
+        "company": "Arbisoft", 
+        "year": "", 
+        "details": "storematching"
+    },
+    {
+        "url": "details#",
+        "name": "Product Matching - Burger Index",
+        "company": "Arbisoft", 
+        "year": "", 
+        "details": "productmatching"
+    },
+    {
+        "url": "details#",
+        "name": "Retail Products Extraction - Burger Index",
+        "company": "Arbisoft", 
+        "year": "", 
+        "details": "productextraction"
+    },
+    {
+        "url": "details#",
         "name": "Ask My AI",
         "company": "Arbisoft", 
         "year": "Mar 2023 - Oct 2023", 
@@ -15,7 +99,7 @@
     },
     {
         "url": "details#",
-        "name": "Outset Style",
+        "name": "Outset Style (trybutton.co)",
         "company": "Toptal", 
         "year": "Sep 2023 - Feb 2024", 
         "details": "outset"
@@ -27,40 +111,13 @@
         "year": "Jul 2023 - Feb 2024", 
         "details": "codeker"
     },
-    {
-        "url": "details#",
-        "name": "Menus Recipe - Burger Index",
-        "company": "Arbisoft", 
-        "year": "Jan 2024 - Present", 
-        "details": "menu"
-    },
+    
     {
         "url": "details#",
         "name": "Call-Analyzer Bearsight.io",
         "company": "Toptal", 
         "year": "Aug 2023 - Jan 2024", 
         "details": "callanalyzer"
-    },
-    {
-        "url": "details#",
-        "name": "Store Matching - Burger Index",
-        "company": "Arbisoft", 
-        "year": "December 2023 - Present", 
-        "details": "storematching"
-    },
-    {
-        "url": "details#",
-        "name": "Product Matching - Burger Index",
-        "company": "Arbisoft", 
-        "year": "Jan 2024 - Present", 
-        "details": "productmatching"
-    },
-    {
-        "url": "details#",
-        "name": "Retail Products Extraction - Burger Index",
-        "company": "Arbisoft", 
-        "year": "September 2023 - Jan 2024", 
-        "details": "productextraction"
     },
     {
         "url": "details#",
