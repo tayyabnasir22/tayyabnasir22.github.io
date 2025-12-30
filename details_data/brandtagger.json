@@ -1,0 +1,26 @@
+{
+  "type": "Portfolio Project",
+  "name": "Brand Tagger - Burger Index",
+  "description": "A solution to identify store brands from data collected on platforms like Uber Eats, Grab, Gojek, Zomato, Hunger-Station, and Jahez. Implements a text and image-embedding-based pipeline to differentiate brands with similar names but different logos, creating a searchable brand index for keyword extraction and tagging.",
+  "tools": [
+    "Python",
+    "NumPy",
+    "Pandas",
+    "FlashText",
+    "Regex",
+    "SeamlessM4T",
+    "Dask",
+    "FastAPI",
+    "MySQL",
+    "TheFuzz",
+    "Elasticsearch",
+    "Pillow",
+    "Vision Transformer"
+  ],
+  "role": [
+    "Developed a pipeline to generate image embeddings for logos and cover images extracted from multiple platforms",
+    "Built a central index combining text and image variations, with processes to expand and accommodate newly identified brands",
+    "Designed a comparison pipeline to tag existing data based on available modalities (text and image)",
+    "Integrated the brand index with Elasticsearch Cloud to enable efficient search and keyword-based retrieval"
+  ]
+}
