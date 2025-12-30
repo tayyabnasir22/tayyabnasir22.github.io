@@ -2,6 +2,7 @@
   "projects": [
     { "name": "StreamGist", "anchor": "streamgist"},
     { "name": "Saltine", "anchor": "saltine"},
+    { "name": "Intelligent Analyst", "anchor": "intelligentanalyst"},
     { "name": "CredX (tasheelat.co)", "anchor": "credx"},
     { "name": "Ask My AI - Arbisoft", "anchor": "askmyai"},
     { "name": "Call-Analyzer - Bearsight.io", "anchor": "callanalyzer"},

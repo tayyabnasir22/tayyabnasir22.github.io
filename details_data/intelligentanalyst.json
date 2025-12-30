@@ -1,7 +1,33 @@
 {
-    "type": "",
-    "name": "",
-    "description": "",
-    "tools": [],
-    "role": []
+  "type": "Portfolio Project",
+  "name": "Intelligent Analyst",
+  "description": "An intelligent data processing platform for auditing datasets across multiple configured domains. Processes large datasets to identify potential validation and standard violations and provides actionable suggestions for corrections.",
+  "tools": [
+    "Python",
+    "FastAPI",
+    "SQLModel",
+    "MySQL",
+    "Brevo",
+    "Google Auth",
+    "React",
+    "React Bootstrap",
+    "HTML",
+    "CSS",
+    "Digital Ocean",
+    "Docker",
+    "NLP",
+    "OpenAI",
+    "Next.js",
+    "Celery",
+    "React Charts",
+    "Plausible",
+    "Sentry",
+    "Pandas"
+  ],
+  "role": [
+    "Architected the application from scratch, developing both front-end and back-end modules, including user management, validation calculations, notifications, and caching",
+    "Built services to process and validate large datasets according to configurable domain-specific rules, generating detailed reports of failed validations and confidence scores for individual data fields",
+    "Developed an admin system to configure validation rules dynamically for different domains and manage automated validation processes",
+    "Enabled actionable insights and corrective suggestions for detected validation and standard violations, improving data quality and audit efficiency"
+  ]
 }

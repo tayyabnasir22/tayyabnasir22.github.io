@@ -1,7 +1,23 @@
 {
-    "type": "",
-    "name": "",
-    "description": "",
-    "tools": [],
-    "role": []
+  "type": "Portfolio Project",
+  "name": "OCR Crawler - Burger Index",
+  "description": "An OCR-based crawler that extracts images from mobile applications of various delivery platforms and retrieves relevant store, product, and attribute information.",
+  "tools": [
+    "Python",
+    "OpenAI GPT",
+    "Gemini",
+    "Scikit-learn",
+    "Pandas",
+    "NLP",
+    "Computer Vision",
+    "TensorFlow",
+    "Keras",
+    "Tesseract",
+    "Pillow"
+  ],
+  "role": [
+    "Developed an OCR-template pipeline to extract relevant text from input images, applying template rules to map text information according to platform-specific configurations",
+    "Created pre-processing and post-processing rules to link and correct extracted data based on alternate data sources and existing records",
+    "Integrated a multi-modal LLM-based agent to verify and correct low-confidence OCR outputs, improving data accuracy and consistency"
+  ]
 }
