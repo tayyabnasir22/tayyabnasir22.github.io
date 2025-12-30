@@ -1,0 +1,24 @@
+{
+    "type": "Portfolio Project",
+    "name": "Agent QA - Burger Index",
+    "description": "Agent QA is an intelligent quality assurance system designed as a hybrid of in-house machine learning models and LLM-based agents, acting as a final validator across multiple AI-driven data pipelines for deduplication, matching, and data extraction, thereby reducing manual data verification efforts.",
+    "tools": [
+        "Python",
+        "OpenAI",
+        "GPT",
+        "Gemini",
+        "Scikit-learn",
+        "Pandas",
+        "NLP",
+        "Computer Vision",
+        "TensorFlow",
+        "Keras"
+    ],
+    "role": [
+        "Designed and trained multiple in-house machine learning models using previously tagged and labeled datasets, leveraging rule-based and NLP-driven systems to predict match confidence scores and flag low-confidence results for human review",
+        "Developed multi-agent pipelines using OpenAI and Gemini agents to perform scenario-based analysis and incorporate additional features not used in the primary matching and tagging pipelines",
+        "Built the complete Agent QA ecosystem and integrated it seamlessly into existing AI-powered data engineering workflows as a final quality control layer",
+        "Implemented mechanisms to automatically identify and surface potential false positives for targeted human QA verification",
+        "Reduced manual quality assurance efforts from hours of data verification to just minutes by introducing intelligent prioritization and agent-based validation"
+    ]
+}
