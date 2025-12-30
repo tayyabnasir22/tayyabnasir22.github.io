@@ -10,7 +10,6 @@
     { "name": "Menus Recipe - Burger Index", "anchor": "menu"},
     { "name": "Reki Movie Recommendations - Arbisoft", "anchor": "reki"},
     { "name": "Product Matching - Burger Index", "anchor": "productmatching"},
-    { "name": "Retail Products Extraction - Burger Index", "anchor": "productextraction"},
     { "name": "Agent QA - Burger Index", "anchor": "agentqa"},
     { "name": "Retail Attributes Classifier - Burger Index", "anchor": "attributer"},
     { "name": "Brand Tagger - Burger Index", "anchor": "brandtagger"},

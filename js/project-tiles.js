@@ -12,11 +12,13 @@ fetch('data/project-tiles.json')
       
       const btnGroup = document.createElement('div');
       btnGroup.className = 'btn-group';
-      
-      rowProjects.forEach(proj => {
+      const denominator = i % 2 === 0 ? 1 : 0;
+
+      rowProjects.forEach((proj, index) => {
+        style = index % 2 === denominator ? 'secondary': 'light'
         const a = document.createElement('a');
         a.href = `#${proj.anchor}`;
-        a.className = `btn btn-sm btn-${proj.style} btn-outline-dark`;
+        a.className = `btn btn-sm btn-${style} btn-outline-dark`;
         a.textContent = proj.name;
         btnGroup.appendChild(a);
       });

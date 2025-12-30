@@ -1,0 +1,41 @@
+{
+  "type": "Portfolio Project",
+  "name": "StreamGist",
+  "description": "A personalized recommendation system that helps streamers discover games that maximize their visibility without forcing a vibe they don't want. Provides real-time, data-driven game recommendations based on information collected from streaming platforms like Twitch, YouTube, and Kick.",
+  "tools": [
+    "Python",
+    "FastAPI",
+    "SQLModel",
+    "MySQL",
+    "Brevo",
+    "Twitch API",
+    "Discord API",
+    "Google Auth",
+    "Twitch Auth",
+    "React",
+    "React Bootstrap",
+    "HTML",
+    "CSS",
+    "Digital Ocean",
+    "Docker",
+    "NLP",
+    "OpenAI",
+    "Next.js",
+    "Celery",
+    "React Charts",
+    "Plausible",
+    "Stripe",
+    "Sentry"
+  ],
+  "role": [
+    "Architected the application from scratch, developing both front-end and back-end modules, including user management, recommendation calculations and management, payments, notifications, and caching",
+    "Built data processing pipelines to fetch continuous real-time data from multiple sources, aggregate statistics, and connect insights to user preferences for personalized recommendations",
+    "Designed a fully responsive, mobile-friendly front-end with pagination and interactive features for improved user experience",
+    "Developed services for notifications (emails, etc.), ensuring high reliability and reduced failure rates",
+    "Implemented Stripe-based payment management, including user payment-based boosts with monitoring and control",
+    "Optimized recommendation and reasoning pipelines using caching and OpenAI for cost-efficient operations",
+    "Captured implicit and explicit user feedback to continuously improve recommendation accuracy",
+    "Built reporting systems for internal analytics, supporting complex queries to generate daily and weekly statistics for reports based on third-party data and user activity",
+    "Managed deployment pipelines with Docker and Digital Ocean, including bulk reporting automation"
+  ]
+}
