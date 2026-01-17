@@ -1,14 +1,6 @@
 {
   "education": [
     {
-      "institution": "University of Western Australia, Perth WA, Australia",
-      "degree": "Doctor of Philosophy",
-      "field": "Computer Science",
-      "research": "Machine Learning, Computer Vision, Deep Learning, Data Science, Image Processing, Pattern Recognition, Super Resolution",
-      "start": "April 2025",
-      "end": "Present"
-    },
-    {
       "institution": "University of the Punjab, Lahore (FCIT)",
       "degree": "Master of Philosophy",
       "field": "Computer Science",
