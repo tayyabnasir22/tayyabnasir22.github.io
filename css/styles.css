@@ -10989,3 +10989,25 @@ section.resume-section .resume-section-content {
 .scroll-to-top i {
   font-weight: 800;
 }
+
+/* Special style for the last link */
+.special-class {
+  color: #fff!important; /* Toptal blue */
+  font-weight: bolder!important; /* optional to make it stand out */
+}
+
+/* Optional hover effect */
+.special-class:hover {
+  color: #a3ddfc!important; /* slightly darker blue on hover */
+}
+
+.bolder-line{
+  height: 2px;          
+  background-color: #fff!important; 
+  border: none;          
+  margin: 2px!important;   
+}
+
+.default-pad-contrib{
+  padding-left: 1.5em;
+}
