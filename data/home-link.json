@@ -1,6 +1,7 @@
 {
   "links": [
     { "label": "About", "href": "#about" },
+    { "label": "Activity", "href": "#github-contrib" },
     { "label": "Experience", "href": "#experience" },
     { "label": "Education", "href": "#education" },
     { "label": "Research", "href": "#research" },
