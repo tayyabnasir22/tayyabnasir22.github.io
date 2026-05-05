@@ -1,7 +1,14 @@
 {
   "research": [
     {
-      "title": "Implicit Neural Representation-Based Continuous Single Image Super Resolution: An Empirical Study",
+      "title": "NAIMA: Semantics Aware RGB Guided Depth Super-Resolution",
+      "link": "https://arxiv.org/abs/2604.04407",
+      "authors": "<b>Tayyab Nasir</b>, Daochang Liu, and Ajmal Mian",
+      "journal": "arXiv preprint arXiv:2604.04407",
+      "year": "2026"
+    },
+    {
+      "title": "Implicit Neural Representation-Based Continuous Single Image Super Resolution: An Empirical Benchmark",
       "link": "https://arxiv.org/abs/2601.17723",
       "authors": "<b>Tayyab Nasir</b>, Daochang Liu, and Ajmal Mian",
       "journal": "arXiv preprint arXiv:2601.17723",
